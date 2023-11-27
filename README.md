@@ -1,6 +1,5 @@
 ### Hi, I'm Chris 👋
-<img src="https://github.com/chriscotimms/chriscotimms/assets/4311214/3e009d37-54c3-4d46-8a7c-fbcc0f241089" width="25%">
-<br>
+
 I'm a Software Developer currently studying on the Founders and Coders Bootcamp.
 
 
