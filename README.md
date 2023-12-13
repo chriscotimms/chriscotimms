@@ -2,12 +2,11 @@
         <samp>&gt; Hey There! I'm
                 <b><a target="_blank" href="https://christimms.org">Chris Timms</a> 👋</b>
         </samp>
-A Fullstack Web Developer currently studying on the <a target="_blank" href="https://www.foundersandcoders.com/foundation">Founders and Coders Bootcamp</a>.
+        
 </h1>
 
 
-
-
+A Fullstack Web Developer currently studying on the <a target="_blank" href="https://www.foundersandcoders.com/foundation">Founders and Coders Bootcamp</a>.
 
 
 
