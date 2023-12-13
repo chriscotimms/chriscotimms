@@ -1,12 +1,13 @@
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://christimms.org">Chris</a></b>
+<h1 align="center">
+        <samp>&gt; Hey There! I'm
+                <b><a target="_blank" href="https://christimms.org">Chris Timms</a> 👋</b>
         </samp>
-</h3>
+A Fullstack Web Developer currently studying on the <a target="_blank" href="https://www.foundersandcoders.com/foundation">Founders and Coders Bootcamp</a>.
+</h1>
 
-### Hi, I'm Chris 👋
 
-I'm a Fullstack Software Developer currently studying on the Founders and Coders Bootcamp.
+
+
 
 
 
