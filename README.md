@@ -2,7 +2,7 @@
 I'm currently working on a node.js OpenAi Bot<br>I'm looking to collaborate on learning Node, React, and Next<br>I'm currently learning about Asynchronous Javascript and Node.js
 
 
-## 🌐 Socials:
+## 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/chris--timms) 
 
 # 💻 Tech Stack:
