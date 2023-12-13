@@ -1,6 +1,12 @@
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        </samp>
+</h3>
+
 ### Hi, I'm Chris 👋
 
-I'm a Software Developer currently studying on the Founders and Coders Bootcamp.
+I'm a Fullstack Software Developer currently studying on the Founders and Coders Bootcamp.
 
 
 
