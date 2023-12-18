@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning how to code better with my peers on [Founders and Coders](https://www.foundersandcoders.com/ "Founders and Coders") on their Bootcamp.<br>
+I'm a fledgling Full-Stack web developer, with an interest in Accessibility and a background in Art.
+I'm currently learning a lot from my peers in the [Founders and Coders](https://www.foundersandcoders.com/ "Founders and Coders") Bootcamp.<br>
 We're working on a Discord Bot using node.js and OpenAi to generate code-reads and answers.<br>In whatever time we have spare I'm developing my knowledge of Asynchronous Javascript and Node.js through [Execute Program](https://www.executeprogram.com/ "Execute Program") <br>
 
 
