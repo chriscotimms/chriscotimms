@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a Discord Bot using node.js and OpenAi to generate code-reads and answers.<br>I'm currently learning Asynchronous Javascript and Node.js through [Execute Program](https://www.executeprogram.com/ "Execute Program") <br>I'm looking to collaborate on learning Node, React, and Next
+I'm currently learning how to code better with my peers on [Founders and Coders](https://www.foundersandcoders.com/ "Founders and Coders") on their Bootcamp.
+We're working on a Discord Bot using node.js and OpenAi to generate code-reads and answers.<br>In whatever time we have spare I'm developing my knowledge of Asynchronous Javascript and Node.js through [Execute Program](https://www.executeprogram.com/ "Execute Program") <br>
 
 
 ## 🌐
